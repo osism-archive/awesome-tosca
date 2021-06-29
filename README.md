@@ -21,8 +21,24 @@ A curated list of awesome TOSCA resources.
 *Parser*
 - https://github.com/openstack/tosca-parser/blob/master/toscaparser/tests/data/tosca_helloworld.yaml
 - https://github.com/ystia/yorc
+- https://github.com/tliron/puccini
 
 
 ### PoC with TOSCA
 
 Our try to come up with a PoC with TOSCA: https://github.com/osism/tosca-in-a-nutshell
+
+### TOSCA Kickoff 29th June 2021 12:00pm UTC
+
+Giuditta Del Buono set up the OWP
+Seems that there was a survay in the nextcloud regarding TOSCA.
+- Searching for a Co-Head
+- Planned do agree on deadlines and identify milestones
+https://community.gaia-x.eu/apps/forms/LKeEFmT74PGtn2C3
+
+Working group might be renamed as it is not helpful to name it after a certain technology.
+Everybody introduced themselfs. Most of attendees are just curious and seem not to really need to work with it
+in the near future. 
+
+Diskussion started of what problems should really be solved.
+Further information of followup meetings, etc. will be distributed via mail.
