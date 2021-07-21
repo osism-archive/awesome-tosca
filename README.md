@@ -22,6 +22,7 @@ A curated list of awesome TOSCA resources.
 - https://github.com/openstack/tosca-parser/blob/master/toscaparser/tests/data/tosca_helloworld.yaml
 - https://github.com/ystia/yorc
 - https://github.com/tliron/puccini
+- https://github.com/grycap/im
 
 
 ### PoC with TOSCA
