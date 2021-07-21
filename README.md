@@ -2,44 +2,44 @@
 
 A curated list of awesome TOSCA resources.
 
-### Link collection
+* https://www.oasis-open.org/committees/tc_home.php
 
-*TOSCA 1.3*
-- https://docs.oasis-open.org/tosca/TOSCA-Simple-Profile-YAML/v1.3/TOSCA-Simple-Profile-YAML-v1.3.html
+## Specifications
 
 *TOSCA 2.0*
 - https://docs.oasis-open.org/tosca/TOSCA/v2.0/TOSCA-v2.0.pdf
 
+*TOSCA 1.0*
+- https://docs.oasis-open.org/tosca/TOSCA/v1.0/TOSCA-v1.0.pdf
+
+### Non-official variants
+
 *TOSCA Light*
 - https://www.iaas.uni-stuttgart.de/publications/Wurster_TOSCA_Light.pdf
-- https://github.com/UST-EDMM/edmm
+
+## Software
+
+- https://github.com/alien4cloud/alien4cloud
+- https://github.com/grycap/im
+- https://github.com/openstack/tosca-parser
+- https://github.com/tliron/puccini
+- https://github.com/tliron/turandot
+- https://github.com/ystia/yorc
+- https://github.com/grycap/im
+
+## Papers
+
+- https://elib.uni-stuttgart.de/bitstream/11682/9874/1/BachelorThesis_TobiasMathony.pdf
+
+## Integrations
 
 *TOSCA actually in use*
 - https://designer.otc-service.com/
-- http://alien4cloud.github.io/index.html
 
-*Parser*
-- https://github.com/openstack/tosca-parser/blob/master/toscaparser/tests/data/tosca_helloworld.yaml
-- https://github.com/ystia/yorc
-- https://github.com/tliron/puccini
-- https://github.com/grycap/im
+## Samples
 
+- https://github.com/osism/tosca-in-a-nutshell
 
-### PoC with TOSCA
+## Working groups
 
-Our try to come up with a PoC with TOSCA: https://github.com/osism/tosca-in-a-nutshell
-
-### TOSCA Kickoff 29th June 2021 12:00pm UTC
-
-Giuditta Del Buono set up the OWP
-Seems that there was a survay in the nextcloud regarding TOSCA.
-- Searching for a Co-Head
-- Planned do agree on deadlines and identify milestones
-https://community.gaia-x.eu/apps/forms/LKeEFmT74PGtn2C3
-
-Working group might be renamed as it is not helpful to name it after a certain technology.
-Everybody introduced themselfs. Most of attendees are just curious and seem not to really need to work with it
-in the near future. 
-
-Diskussion started of what problems should really be solved.
-Further information of followup meetings, etc. will be distributed via mail.
+- Gaia-X OWP Cross-Environment Service Orchestration (as part of the Gaia-X WP Minimal Viable Gaia-X)
