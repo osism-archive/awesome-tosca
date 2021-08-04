@@ -26,6 +26,7 @@ A curated list of awesome TOSCA resources.
 - https://github.com/tliron/turandot
 - https://github.com/ystia/yorc
 - https://github.com/grycap/im
+- https://github.com/indigo-dc/orchestrator
 
 ## Papers
 
