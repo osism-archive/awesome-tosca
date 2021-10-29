@@ -36,6 +36,13 @@ A curated list of awesome TOSCA (Topology and Orchestration Specification for Cl
 - https://github.com/xlab-si/xopera-opera
 - https://github.com/ystia/yorc
 
+## Presentation recordings
+
+- How can the TOSCA practitioners benefit from xOpera project?
+  https://www.youtube.com/watch?v=NZLYWB9uxjk
+- Deployment on Amazon AWS with TOSCA and Ansible
+  https://www.youtube.com/watch?v=Mr_L2_lnBQM
+
 ## Real world integrations - TOSCA actually in use
 
 - https://designer.otc-service.com/
