@@ -50,6 +50,7 @@ A curated list of awesome TOSCA (Topology and Orchestration Specification for Cl
 ## Samples
 
 - https://github.com/osism/tosca-in-a-nutshell
+- https://github.com/opentelekomcloud-blueprints/tosca-service-catalogs
 
 ## Working groups
 
